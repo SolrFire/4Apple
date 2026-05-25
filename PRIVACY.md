@@ -40,4 +40,4 @@ If this policy changes, the new version will be posted at this URL with an updat
 
 ## Contact
 
-Questions: open an issue at [github.com/SolrFire/TheDeck](https://github.com/SolrFire/TheDeck)
+Questions: open an issue at [github.com/SolrFire/4Apple](https://github.com/SolrFire/4Apple)
